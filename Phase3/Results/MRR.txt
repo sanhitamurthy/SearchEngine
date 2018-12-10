@@ -1,0 +1,8 @@
+Mean Reciprocal Rank for TFIDF_Task1 is 0.1668
+Mean Reciprocal Rank for BM25_Task1 is 0.4875
+Mean Reciprocal Rank for QL_Task1 is 0.4338
+Mean Reciprocal Rank for lucene is 0.4707
+Mean Reciprocal Rank for BM25_PR is 0.5768
+Mean Reciprocal Rank for TFIDF_Task3a is 0.3257
+Mean Reciprocal Rank for BM25_Task3a is 0.5117
+Mean Reciprocal Rank for QL_Task3a is 0.4743
